@@ -1,0 +1,3 @@
+C:/Users/miran/OneDrive/Escritorio/tarea de repaso de c++/cmake-build-debug/CMakeFiles/tarea_de_repaso_de_c__.dir
+C:/Users/miran/OneDrive/Escritorio/tarea de repaso de c++/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/miran/OneDrive/Escritorio/tarea de repaso de c++/cmake-build-debug/CMakeFiles/rebuild_cache.dir
